@@ -10,6 +10,6 @@
 |--------------|-------------|
 
 ### Connect with me :
-<img style="font-size:25px" src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/icons8-twitter-48.png"> <img style="font-size:25px" src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/icons8-instagram-144.png"> <img style="font-size:25px" src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/icons8-codepen-150.png">
+<img style="height:25px, width:25px" src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/icons8-twitter-48.png"> <img style="height:25px, width:25px" src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/icons8-instagram-144.png"> <img style="height:25px, width:25px" src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/icons8-codepen-150.png">
 
 
