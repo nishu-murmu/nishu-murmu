@@ -1,6 +1,6 @@
 # Hi there :wave:, I'm Nishu
 ### **About Me**
-* Currently learning React and Next.js
+* Currently learning React and Lua
 * Looking for some creative collab with WebGL/THREE.js.
 
 ### Languages and tools I use :
@@ -10,6 +10,6 @@
 |--------------|-------------|
 
 ### Connect with me :
-<img style="height:250px, width:20px" link="https://twitter.com/_Gliches_" src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/icons8-twitter-48.png"></a> 
+<a href="https://twitter.com/_Gliches_"><img style="height:250px, width:20px" src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/icons8-twitter-48.png"></a> 
 
 
