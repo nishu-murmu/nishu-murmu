@@ -10,6 +10,7 @@
 |--------------|-------------|
 
 ### Connect with me :
-<a href="https://twitter.com/_Gliches_"><img style="height:250px, width:20px" src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/icons8-twitter-48.png"></a> 
+<a href="https://twitter.com/_Gliches_"><img style="height:250px, width:20px" src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/icons8-twitter-48.png"></a>
+<a href="https://www.instagram.com/nishu_murmu/"> <img src="https://github.com/nishu-murmu/nishu-murmu/blob/main/images/instagram.png"></a>
 
 
