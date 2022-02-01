@@ -5,7 +5,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishu-murmu&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)|<a src="https://github.com/nishu-murmu/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nishu-murmu&show_icons=true&theme=gruvbox&hide_border=true&hide=stars"></a>
 |--------------|-------------|
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishu-murmu&layout=compact&show_icons=true&theme=gruvbox&langs_count=10&hide_border=true" />  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishu-murmu&layout=compact&show_icons=true&theme=gruvbox&langs_count=8&hide_border=true" />  
 </p>
 
 ---
