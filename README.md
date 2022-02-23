@@ -2,8 +2,7 @@
 
 1. I'm currently working on my custom Neovim [config](https://github.com/nishu-murmu/TezVim).
 2. I'm currently learning Lua, Bash Script and React.
-3. In my free time I like to learn Japanese, play Chess and practise touch typing.
-4. Reach Me :
+3. Reach Me :
  * [Twitter](twitter.com/_GLiches_)
  * [Instagram](instagram.com/nishu_murmu)
  * Check out my [Blog](https://medium.com/@nishumurmu)
