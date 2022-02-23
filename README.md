@@ -1,5 +1,4 @@
 <h2 align="center">:wave: Hi, I'm Nishu</h2>
-<h6 align="center">Computer Science Student and Self taught learner.</h6>
 
 1. I'm currently working on my custom Neovim [config](https://github.com/nishu-murmu/TezVim).
 2. I'm currently learning Lua, Bash Script and React.
