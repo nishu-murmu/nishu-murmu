@@ -1,6 +1,6 @@
 <h2 align="center">:wave: Hi, I'm Nishu</h2>
 
-1. I'm currently working on my custom Neovim [config](https://github.com/nishu-murmu/TezVim).
+1. I'm currently working on my own color scheme [cyanide.vim](https://github.com/nishu-murmu/cyanide.vim).
 2. I'm currently learning Lua, Bash Script and React.
 3. Reach Me :
  * [Twitter](twitter.com/_GLiches_)
