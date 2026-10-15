@@ -1,11 +1,17 @@
-Full-stack developer and browser extension specialist. Maintainer of [WXT](https://github.com/wxt-dev/wxt).
+Software Developer and Open Source Enthusiast.
  
 ## Open Source
- 
+
+ ### Maintaining and Contributing
 - [WXT](https://github.com/wxt-dev/wxt) — Next-gen web extension framework. MV2/MV3, all browsers, HMR, file-based entrypoints, auto-imports. 10k+ stars.
-- [cursor-inline](https://github.com/nishu-murmu/cursor-inline) — Cursor-style inline editing plugin for Neovim.
-- [ThemeSwitch.nvim](https://github.com/nishu-murmu/ThemeSwitch.nvim) — Lightweight colorscheme switcher for Neovim.
+
+ ### Personal Projects
 - [packall](https://github.com/nishu-murmu/packall) — Keyboard-driven catalogue of essential Linux software.
+- [cursor-inline](https://github.com/nishu-murmu/cursor-inline) — Cursor-style inline editing plugin for Neovim.
+- [ThemeSwitch.nvim](https://github.com/nishu-murmu/ThemeSwitch.nvim) — Lightweight colorscheme switcher for Neovim
+- [Youtube-Video-Scheduler](https://github.com/nishu-murmu/Youtube-Video-Scheduler) — A browser extension to schedule videos on youtube, incase you want to watch something later.
+- [WhatsApp-Toggle](https://github.com/nishu-murmu/WhatsApp-Toggle) — Small chrome extension to toggle whatsApp left sidebar chats.
+
 
 ### Tech
 
