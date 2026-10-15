@@ -1,5 +1,3 @@
-# Nishu Murmu
- 
 Full-stack developer and browser extension specialist. Maintainer of [WXT](https://github.com/wxt-dev/wxt).
  
 ## Open Source
@@ -8,7 +6,6 @@ Full-stack developer and browser extension specialist. Maintainer of [WXT](https
 - [cursor-inline](https://github.com/nishu-murmu/cursor-inline) — Cursor-style inline editing plugin for Neovim.
 - [ThemeSwitch.nvim](https://github.com/nishu-murmu/ThemeSwitch.nvim) — Lightweight colorscheme switcher for Neovim.
 - [packall](https://github.com/nishu-murmu/packall) — Keyboard-driven catalogue of essential Linux software.
-- [dotfiles](https://github.com/nishu-murmu/dotfiles) — Arch Linux + Hyprland config.
 
 ### Tech
 
