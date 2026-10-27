@@ -28,4 +28,4 @@ OS             Arch Linux · Hyprland
 
 [![X](https://img.shields.io/badge/@__Gliches__-000?style=flat&logo=x&logoColor=white)](https://x.com/_Gliches_)
 [![Reddit](https://img.shields.io/badge/u/__Gliches__-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/_Gliches_)
-[![Website](https://img.shields.io/badge/gliches.netlify.app-222?style=flat&logo=netlify&logoColor=white)](https://gliches.netlify.app)
+[![Website](https://img.shields.io/badge/gliches.pages.dev-222?style=flat&logo=cloudflare&logoColor=white)](https://gliches.pages.dev)
