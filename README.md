@@ -8,7 +8,7 @@ Software Developer and Open Source Enthusiast.
  ### Personal Projects
 - [packall](https://github.com/nishu-murmu/packall) — Keyboard-driven catalogue of essential Linux software.
 - [hushpad](https://hushpad.pages.dev/) — A browser extension with end-to-end encrypted notes and environment variables in your browser's new tab.
-- [typinground](https://typinground.pages.dev) — A browser extension that turns the article you're reading into typing practice.
+- [typinground](https://typinground.in) — A browser extension that turns the article you're reading into typing practice.
 - [cursor-inline](https://github.com/nishu-murmu/cursor-inline) — Cursor-style inline editing plugin for Neovim.
 - [ThemeSwitch.nvim](https://github.com/nishu-murmu/ThemeSwitch.nvim) — Lightweight colorscheme switcher for Neovim
 - [Youtube-Video-Scheduler](https://github.com/nishu-murmu/Youtube-Video-Scheduler) — A browser extension to schedule videos on youtube, incase you want to watch something later.
